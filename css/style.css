@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/section.css");
+
+body {
+	font-family: "Lora", serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+}
+h1,h2 {
+	font-family: "Roboto Condensed", sans-serif;
+  	font-optical-sizing: auto;
+  	font-style: normal;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h2{
+	font-weight: 400;
+}
+
+h3{
+	font-family: "Lora", serif;
+	font-weight: 40;
+	color:#895129 ;
+}
+
+a {
+	text-decoration: none;
+}
+
+
